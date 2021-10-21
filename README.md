@@ -1,1 +1,1 @@
-# test
+# bakery-plugin-extension
